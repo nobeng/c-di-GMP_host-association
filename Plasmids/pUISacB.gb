@@ -1,0 +1,429 @@
+LOCUS       MPB18630_2              5313 bp DNA     circular SYN 22-JUL-2022
+DEFINITION  synthetic DNA.
+ACCESSION   .
+VERSION     .
+KEYWORDS    pUIsacB
+SOURCE      synthetic DNA construct
+  ORGANISM  synthetic DNA construct
+REFERENCE   1  (bases 1 to 5313)
+  TITLE     NEBuilder-generated Construct
+  JOURNAL   Exported 4-MAR-2020 from NEBuilder https://nebuilder.neb.com
+REFERENCE   2  (bases 1 to 5313)
+  AUTHORS   .
+  TITLE     Direct Submission
+  JOURNAL   Exported Jul 22, 2022 from SnapGene Viewer 6.1.0
+            https://www.snapgene.com
+COMMENT     SGRef: number: 1; type: "Journal Article"; journalName: "Exported 
+            4-MAR-2020 from NEBuilder https://nebuilder.neb.com"
+COMMENT     NEBuilder-generated oligos (UPPERCASE = gene-specific, lowercase = 
+            overlap) MPB14779puisacb_fwd: TGTCCTTTTCCGCTGCATAAC
+                     MPB14779puisacb_fwd 3'Tm: 60.8  3'Ta: 64.1
+                     MPB14779puisacb_rev: ATTGTCTCAGGTCGAGGTGG
+                     MPB14779puisacb_rev 3'Tm: 61.1  3'Ta: 64.1
+                     sacB_fwd: ccacctcgacctgagacaatACCCATCACATATACCTGCCG
+                     sacB_fwd 3'Tm: 61.6  3'Ta: 64.8
+                     sacB_rev: ttatgcagcggaaaaggacaTTTCGCTCGGTACCCATCGG
+                     sacB_rev 3'Tm: 64.1  3'Ta: 64.8.
+FEATURES             Location/Qualifiers
+     source          1..5313
+                     /mol_type="other DNA"
+                     /organism="synthetic DNA construct"
+     terminator      408..456
+                     /label=L3S3P22 terminator
+                     /label=L3S3P22 terminator; terminator
+                     /note="/%_Identity=100"
+                     /note="/Motif=CCAATTATTGAAGGCCGCTAACGCGGCCTTTTTTTGTTTCTGGTC
+                     TCCC"
+                     /note="/Transferred_From=Digestion of MPB13966, Gibson 
+                     landingterminator, Gibson landing terminator p14f, 
+                     MPB13825, MPB13948, MPB13966, MPB14047, MPB14069 predicted,
+                     MPB14077 predicted, NEBuilder_Assembly, backup of fliA2 in 
+                     MPB13966, backup of pUIC3mini no linker, fliA2 in MPB13966,
+                     fliAdelinMPB13948, mScarlet in MPB13966 assembly, 
+                     pUIC3mini, pUIC3mini no linker, pUIC3minipUC19, pUICmark1"
+                     /note="/Transferred_From=MPB14779"
+                     /note="/Transferred_Similarity=100.00%"
+                     /note="/Transferred_Similarity=100.00%"
+                     /note="/X-Transferred_From=Digestion of MPB13966; 
+                     MPB13948;MPB13966; NEBuilder_Assembly"
+                     /note="/X-Transferred_Similarity=100.00%"
+                     /note="/annotation_group=L3S3P22 terminator: 1,282 -> 
+                     1,330"
+                     /note="/modified_by=mcconnel; rogers"
+     CDS             590..1708
+                     /codon_start=1
+                     /transl_table=11
+                     /gene="tetA"
+                     /product="tetracycline efflux transporter"
+                     /label=tetA
+                     /label=tetA; tetA CDS
+                     /note="/%_Identity=100"
+                     /note="/Motif=ATGCCGGTACTGCCGGGCCTCTTGCGGGATATCGTCCATTCCGAC
+                     AGCAT 
+                     CGCCAGTCACTATGGCGTGCTGCTAGCGCTATATGCGTTGATGCAATTTCTATGCGCA 
+                     CCCGTTCTCGGAGCACTGTCCGACCGCTTTGGCCGCCGCCCAGTCCTGCTCGCTTCGC 
+                     TACTTGGAGCCACTATCGACTACGCGATCATGGCGACCACACCCGTCCTGTGGATTCT 
+                     CTACGCCGGACGCATCGTGGCCGGCATCACCGGCGCCACAGGTGCGGTTGCTGGCGCC 
+                     TATATCGCCGACATCACCGATGGGGAAGATCGGGCTCGCCACTTCGGGCTCATGAGCG 
+                     CTTGTTTCGGCGTGGGTATGGTGGCAGGCCCCGTGGCCGGGGGACTGTTGGGCGCCAT 
+                     CTCCCTGCACGCACCATTCCTTGCGGCGGCGGTGCTCAACGGCCTCAACCTACTACTG 
+                     GGCTGCTTCCTAATGCAGGAGTCGCATAAGGGAGAGCGCCGTCCGATGCCCTTGAGAG 
+                     CCTTCAACCCAGTCAGCTCCTTCCGGTGGGCGCGGGGCATGACCATTGTGGCCGCACT 
+                     TATGACTGTCTTCTTTATCATGCAACTCGTAGGACAGGTGCCGGCAGCGCTCTGGGTC 
+                     ATTTTCGGCGAGGACCGCTTTCGCTGGAGCGCGACGATGATCGGCCTGTCGCTTGCGG 
+                     TATTCGGAATCTTGCACGCCCTCGCTCAAGCCTTCGTCACTGGTCCCGCCACCAAACG 
+                     TTTCGGCGAGAAGCAGGCCATTATCGCCGGCATGGCGGCCGACGCGCTGGGCTACGTC 
+                     TTGCTGGCGTTCGCGACGCGAGGCTGGATGGCCTTCCCCATTATGATTCTTCTCGCTT 
+                     CCGGCGGCATCGGGATGCCCGCGTTGCAGGCCATGCTGTCCAGGCAGGTAGATGACGA 
+                     CCATCAGGGACAGCTTCAAGGATCGCTCGCGGCTCTTACCAGCCTAACTTCGATCACT 
+                     GGACCGCTGATCGTCACGGCGATTTATGCCGCCTCGGCGAGCACATGGAACGGGTTGG 
+                     CATGGATTGTAGGCGCCGCCCTATACCTTGTCTGCCTCCCCGCGTTGCGTCGCGGTGC 
+                     ATGGAGCCGGGCCACCTCGACCTGA"
+                     /note="/Transferred_From=Digestion of JX560341 - Fragment 
+                     1,Digestion of JX560341 - Fragment 2, Digestion of 
+                     MPB13966, Ellen prediction of pSEVA511gfp, Gibson landing 
+                     terminator, Gibson landing terminator p14f, JX560341, 
+                     Ligated sequences, MPB13825, MPB13948, MPB13966, MPB14047, 
+                     MPB14069 predicted, MPB14077 predicted, NEBuilder_Assembly,
+                     backup of fliA2 in MPB13966, backup of pUIC3mini no linker,
+                     fliA2 in MPB13966, fliAdelinMPB13948, mScarlet in MPB13966 
+                     assembly, pSEVA511gfpL3S3P21, pUIC3mini, pUIC3mini no 
+                     linker, pUIC3minipUC19, pUIC4, pUICmark1, promoterless 
+                     pSEVA511gfp"
+                     /note="/Transferred_From=MPB14779"
+                     /note="/Transferred_Similarity=100.00%"
+                     /note="/Transferred_Similarity=100.00%"
+                     /note="/Transferred_Translation=MPVLPGLLRDIVHSDSIASHYGVLLAL
+                     YALMQ 
+                     FLCAPVLGALSDRFGRRPVLLASLLGATIDYAIMATTPVLWILYAGRIVAGITGATGA 
+                     VAGAYIADITDGEDRARHFGLMSACFGVGMVAGPVAGGLLGAISLHAPFLAAAVLNGL 
+                     NLLLGCFLMQESHKGERRPMPLRAFNPVSSFRWARGMTIVAALMTVFFIMQLVGQVPA 
+                     ALWVIFGEDRFRWSATMIGLSLAVFGILHALAQAFVTGPATKRFGEKQAIIAGMAADA 
+                     LGYVLLAFATRGWMAFPIMILLASGGIGMPALQAMLSRQVDDDHQGQLQGSLAALTSL 
+                     TSITGPLIVTAIYAASASTWNGLAWIVGAALYLVCLPALRRGAWSRATST"
+                     /note="/X-Transferred_From=Digestion of MPB13966; 
+                     Ellenprediction of pSEVA511gfp; JX560341; MPB13948; 
+                     MPB13966; NEBuilder_Assembly"
+                     /note="/X-Transferred_Similarity=100.00%"
+                     /note="/X-Transferred_Translation=MPVLPGLLRDIVHSDSIASHYGVLL
+                     ALYAL 
+                     MQFLCAPVLGALSDRFGRRPVLLASLLGATIDYAIMATTPVLWILYAGRIVAGITGAT 
+                     GAVAGAYIADITDGEDRARHFGLMSACFGVGMVAGPVAGGLLGAISLHAPFLAAAVLN 
+                     GLNLLLGCFLMQESHKGERRPMPLRAFNPVSSFRWARGMTIVAALMTVFFIMQLVGQV 
+                     PAALWVIFGEDRFRWSATMIGLSLAVFGILHALAQAFVTGPATKRFGEKQAIIAGMAA 
+                     DALGYVLLAFATRGWMAFPIMILLASGGIGMPALQAMLSRQVDDDHQGQLQGSLAALT 
+                     SLTSITGPLIVTAIYAASASTWNGLAWIVGAALYLVCLPALRRGAWSRATST"
+                     /note="/modified_by=rogers"
+                     /db_xref="GI:410073719"
+                     /protein_id="AFV59804.1"
+                     /translation="MPVLPGLLRDIVHSDSIASHYGVLLALYALMQFLCAPVLGALSDR
+                     FGRRPVLLASLLGATIDYAIMATTPVLWILYAGRIVAGITGATGAVAGAYIADITDGED
+                     RARHFGLMSACFGVGMVAGPVAGGLLGAISLHAPFLAAAVLNGLNLLLGCFLMQESHKG
+                     ERRPMPLRAFNPVSSFRWARGMTIVAALMTVFFIMQLVGQVPAALWVIFGEDRFRWSAT
+                     MSGLSLAVFGILHALAQAFVTGPATKRFGEKQAIIAGMAADALGYVLLAFATRGWMAFP
+                     IMILLASGGIGMPALQAMLSRQVDDDHQGQLQGSLAALTSLTSITGPLIVTAIYAASAS
+                     TWNGLAWIVGAALYLVCLPALRRGAWSRATST"
+     promoter        1721..2166
+                     /gene="sacR"
+                     /label=sacB promoter
+                     /note="sacB promoter and control region"
+                     /note="/Transferred_From=pT18mobsacB"
+                     /note="/Transferred_Similarity=100.00%"
+     CDS             2167..3588
+                     /codon_start=1
+                     /gene="Bacillus subtilis sacB"
+                     /product="secreted levansucrase that renders 
+                     bacterialgrowth sensitive to sucrose"
+                     /label=SacB
+                     /note="negative selection marker"
+                     /note="/Transferred_From=pT18mobsacB"
+                     /note="/Transferred_Similarity=100.00%"
+                     /note="/Transferred_Translation=MNIKKFAKQATVLTFTTALLAGGATQA
+                     FAKET 
+                     NQKPYKETYGISHITRHDMLQIPEQQKNEKYQVSEFDSSTIKNISSAKGLDVWDSWPL 
+                     QNADGTVANYHGYHIVFALAGDPKNADDTSIYMFYQKVGETSIDSWKNAGRVFKDSDK 
+                     FDANDSILKDQTQEWSGSATFTSDGKIRLFYTDFSGKHYGKQTLTTAQVNVSASDSSL 
+                     NINGVEDYKSIFDGDGKTYQNVQQFIDEGNYSSGDNHTLRDPHYVEDKGHKYLVFEAN 
+                     TGTEDGYQGEESLFNKAYYGKSTSFFRQESQKLLQSDKKRTAELANGALGMIELNDDY 
+                     TLKKVMKPLIASNTVTDEIERANVFKMNGKWYLFTDSRGSKMTIDGITSNDIYMLGYV 
+                     SNSLTGPYKPLNKTGLVLKMDLDPNDVTFTYSHFAVPQAKGNNVVITSYMTNRGFYAD 
+                     KQSTFAPSFLLNIKGKKTSVVKDSILEQGQLTVNK"
+                     /translation="MNIKKFAKQATVLTFTTALLAGGATQAFAKETNQKPYKETYGISH
+                     ITRHDMLQIPEQQKNEKYQVSEFDSSTIKNISSAKGLDVWDSWPLQNADGTVANYHGYH
+                     IVFALAGDPKNADDTSIYMFYQKVGETSIDSWKNAGRVFKDSDKFDANDSILKDQTQEW
+                     SGSATFTSDGKIRLFYTDFSGKHYGKQTLTTAQVNVSASDSSLNINGVEDYKSIFDGDG
+                     KTYQNVQQFIDEGNYSSGDNHTLRDPHYVEDKGHKYLVFEANTGTEDGYQGEESLFNKA
+                     YYGKSTSFFRQESQKLLQSDKKRTAELANGALGMIELNDDYTLKKVMKPLIASNTVTDE
+                     IERANVFKMNGKWYLFTDSRGSKMTIDGITSNDIYMLGYVSNSLTGPYKPLNKTGLVLK
+                     MDLDPNDVTFTYSHFAVPQAKGNNVVITSYMTNRGFYADKQSTFAPSFLLNIKGKKTSV
+                     VKDSILEQGQLTVNK"
+     regulatory      3630..3875
+                     /label=oriT
+                     /note="/%_Identity=100"
+                     /note="/Motif=CTTTTCCGCTGCATAACCCTGCTTCGGGGTCATTATAGCGATTTT
+                     TTCGG 
+                     TATATCCATCCTTTTTCGCACGATATACAGGATTTTGCCAAAGGGTTCGTGTAGACTT 
+                     TCCTTGGTGTATCCAACGGCGTCAGCCGGGCAGGATAGGTGAAGTAGGCCCACCCGCG 
+                     AGCGGGTGTTCCTTCTTCACTGTCCCTTATTCGCACCTGGCGGTGCTCAACGGGAATC 
+                     CTGCTCTGCGAGGCTGGCCGTA"
+                     /note="/Transferred_From=MPB13948, MPB14069 
+                     predicted,NEBuilder_Assembly, fliAdelinMPB13948, pUICmark1"
+                     /note="/Transferred_From=MPB14779"
+                     /note="/Transferred_Similarity=100.00%"
+                     /note="/Transferred_Similarity=100.00%"
+                     /note="/X-Transferred_From=MPB13948"
+                     /note="/X-Transferred_Similarity=100.00%"
+                     /note="/modified_by=rogers"
+     rep_origin      complement(3943..4531)
+                     /direction=LEFT
+                     /label=ori
+                     /label=ori; pBR322 ori
+                     /note="high-copy-number ColE1/pMB1/pBR322/pUC origin of 
+                     replication"
+                     /note="/Transferred_From=Exported, Exported - ori 
+                     pBR322(reversed), MPB14308"
+                     /note="/Transferred_From=MPB14779, pT18mobsacB"
+                     /note="/Transferred_Similarity=100.00%"
+                     /note="/Transferred_Similarity=100.00%"
+                     /note="/modified_by=rogers"
+     regulatory      4572..4676
+                     /label=T1 regulatory
+                     /label=T1 regulatory; T1 transcriptional terminator
+                     regulatory
+                     /note="T1; T1 transcriptional terminator"
+                     /note="/Transferred_From=Digestion of JX560341 - Fragment 
+                     2,Digestion of JX560393 - Fragment 2, Digestion of KT192134
+                     - Fragment 2, Digestion of MPB13966, Ellen prediction of 
+                     pSEVA511gfp, Gibson landing terminator, Gibson landing 
+                     terminator p14f, JX560341, JX560393, KT192134, KT192139, 
+                     Ligated sequences, MPB13825, MPB13966, MPB14047, MPB14077 
+                     predicted, NEBuilder_Assembly, backup of fliA2 in MPB13966,
+                     backup of pUIC3mini no linker, fliA2 in MPB13966, mScarlet 
+                     in MPB13966 assembly, pSEVA511gfpL3S3P21, pUIC3mini, 
+                     pUIC3mini no linker, pUIC3minipUC19, promoterless 
+                     pSEVA511gfp"
+                     /note="/Transferred_From=MPB14779"
+                     /note="/Transferred_Similarity=100.00%"
+                     /note="/Transferred_Similarity=100.00%"
+                     /note="/X-Transferred_From=Digestion of MPB13966; 
+                     MPB13966;NEBuilder_Assembly"
+                     /note="/X-Transferred_Similarity=100.00%"
+                     /regulatory_class="terminator"
+     primer_bind     4585..4609
+                     /label=Primer 2
+     misc_feature    4677..4762
+                     /label=landingpad
+                     /note="/%_Identity=100"
+                     /note="/Motif=GTACAGCTATCTTGGTTCAGACGTGAGAAGTGATGCACAGACTAG
+                     TCAGC ACTACATCAACTGACTACTGACTACTGACTGCCACC"
+                     /note="/Transferred_From=MPB13948, pUICmark1"
+                     /note="/Transferred_From=MPB14779"
+                     /note="/Transferred_Similarity=100.00%"
+                     /note="/Transferred_Similarity=100.00%"
+                     /note="/modified_by=rogers"
+     primer_bind     complement(4677..4696)
+                     /label=Primer 4
+     misc_feature    4717..4722
+                     /label=SpeI, AhlI, BcuI
+                     /note="Geneious type: restriction site"
+                     /note="/Methylation=Mixed Methylation"
+                     /note="/Recognition_pattern=A^CTAGT"
+                     /note="/annotation_group=ACTAGT"
+     primer_bind     4724..4743
+                     /label=Primer 3
+     regulatory      4763..4865
+                     /label=T0 regulatory
+                     /label=T0 regulatory; T0 regulatory; T0 transcriptional 
+                     terminator regulatory; T0 transcriptional terminator 
+                     regulatory
+                     /note="T0; T0 transcriptional terminator"
+                     /note="/Transferred_From=Digestion of JX560341 - Fragment 
+                     1,Digestion of JX560341 - Fragment 2, Digestion of JX560393
+                     - Fragment 2, Digestion of KT192134 - Fragment 1, Digestion
+                     of MPB13966, Ellen prediction of pSEVA511gfp, Gibson 
+                     landing terminator, Gibson landing terminator p14f, 
+                     JX560341, JX560393, KT192134, KT192134 extraction 2, 
+                     KT192139, Ligated sequences, MPB13825, MPB13966, MPB14047, 
+                     MPB14077 predicted, NEBuilder_Assembly, backup of fliA2 in 
+                     MPB13966, backup of pUIC3mini no linker, fliA2 in MPB13966,
+                     mScarlet in MPB13966 assembly, pSEVA511gfpL3S3P21, 
+                     pUIC3mini, pUIC3mini no linker, pUIC3minipUC19, pUIC4"
+                     /note="/Transferred_From=MPB14779"
+                     /note="/Transferred_Similarity=100.00%"
+                     /note="/Transferred_Similarity=100.00%"
+                     /note="/X-Transferred_From=Digestion of MPB13966; 
+                     Ellenprediction of pSEVA511gfp; JX560341; KT192134; 
+                     KT192134 extraction 2; MPB13966; NEBuilder_Assembly"
+                     /note="/X-Transferred_Similarity=100.00%"
+                     /regulatory_class="terminator"
+     primer_bind     complement(4805..4827)
+                     /label=Primer 1
+     regulatory      4915..4955
+                     /label=promoter 14g
+                     /note="promoter 14g"
+                     /note="/Transferred_From=Digestion of KT192134 - Fragment 
+                     2,Digestion of MPB13966, Ellen prediction of pSEVA511gfp, 
+                     Gibson landing terminator, KT192134, KT192134 extraction 2,
+                     MPB13825, MPB13966, MPB14077 predicted, NEBuilder_Assembly,
+                     backup of fliA2 in MPB13966, backup of pUIC3mini no linker,
+                     fliA2 in MPB13966, mScarlet in MPB13966 assembly, pBG42 
+                     GFP, pSEVA511gfpL3S3P21, pUIC3mini, pUIC3mini no linker, 
+                     pUIC3minipUC19, pUIC4"
+                     /note="/Transferred_From=MPB14779"
+                     /note="/Transferred_Similarity=100.00%"
+                     /note="/Transferred_Similarity=100.00%"
+                     /note="/X-Transferred_From=Digestion of MPB13966; 
+                     Ellenprediction of pSEVA511gfp; KT192134; KT192134 
+                     extraction 2; MPB13966; NEBuilder_Assembly"
+                     /note="/X-Transferred_Similarity=100.00%"
+                     /regulatory_class="promoter"
+     CDS             join(4992..5313,1..407)
+                     /codon_start=1
+                     /transl_table=11
+                     /gene="msfgfp"
+                     /product="msfGFP"
+                     /label=msfGFP
+                     /label=msfGFP; msfgfp CDS
+                     /note="monomeric superfolder green fluorescent protein"
+                     /note="/%_Identity=100"
+                     /note="/Motif=ATGATCATGGGAATTCATAAAGGTGAAGAACTGTTCACCGGTGTT
+                     GTTCC 
+                     GATCCTGGTTGAACTGGATGGTGATGTTAACGGCCACAAATTCTCTGTTCGTGGTGAA 
+                     GGTGAAGGTGATGCAACCAACGGTAAACTGACCCTGAAATTCATCTGCACTACCGGTA 
+                     AACTGCCGGTTCCATGGCCGACTCTGGTGACTACCCTGACCTATGGTGTTCAGTGTTT 
+                     TTCTCGTTACCCGGATCACATGAAGCAGCATGATTTCTTCAAATCTGCAATGCCGGAA 
+                     GGTTATGTACAGGAGCGCACCATTTCTTTCAAAGACGATGGCACCTACAAAACCCGTG 
+                     CAGAGGTTAAATTTGAAGGTGATACTCTGGTGAACCGTATTGAACTGAAAGGCATTGA 
+                     TTTCAAAGAGGACGGCAACATCCTGGGCCACAAACTGGAATATAACTTCAACTCCCAT 
+                     AACGTTTACATCACCGCAGACAAACAGAAGAACGGTATCAAAGCTAACTTCAAAATTC 
+                     GCCATAACGTTGAAGACGGTAGCGTACAGCTGGCGGACCACTACCAGCAGAACACTCC 
+                     GATCGGTGATGGTCCGGTTCTGCTGCCGGATAACCACTACCTGTCCACCCAGTCTAAA 
+                     CTGTCCAAAGACCCGAACGAAAAGCGCGACCACATGGTGCTGCTGGAGTTCGTTACTG 
+                     CAGCAGGTATCACGCACGGCATGGATGAACTCTACAAATAA"
+                     /note="/Transferred_From=Digestion of KT192134 - Fragment 
+                     2,Ellen prediction of pSEVA511gfp, Gibson landing 
+                     terminator, Gibson landing terminator p14f, KT192134, 
+                     KT192134 extraction 2, KT192139, MPB13825, MPB13948, 
+                     MPB13966, MPB14047, MPB14069 predicted, NEBuilder_Assembly,
+                     backup of fliA2 in MPB13966, backup of pUIC3mini no linker,
+                     fliA2 in MPB13966, fliAdelinMPB13948, pBG42 GFP, 
+                     pSEVA511gfpL3S3P21, pUIC3mini, pUIC3mini no linker, 
+                     pUIC3minipUC19, pUIC4, pUICmark1, promoterless pSEVA511gfp"
+                     /note="/Transferred_From=MPB14779"
+                     /note="/Transferred_Similarity=100.00%"
+                     /note="/Transferred_Similarity=100.00%"
+                     /note="/Transferred_Translation=MIMGIHKGEELFTGVVPILVELDGDVN
+                     GHKFS 
+                     VRGEGEGDATNGKLTLKFICTTGKLPVPWPTLVTTLTYGVQCFSRYPDHMKQHDFFKS 
+                     AMPEGYVQERTISFKDDGTYKTRAEVKFEGDTLVNRIELKGIDFKEDGNILGHKLEYN 
+                     FNSHNVYITADKQKNGIKANFKIRHNVEDGSVQLADHYQQNTPIGDGPVLLPDNHYLS 
+                     TQSKLSKDPNEKRDHMVLLEFVTAAGITHGMDELYK"
+                     /note="/X-Transferred_From=Ellen prediction of 
+                     pSEVA511gfp;KT192134; KT192134 extraction 2; MPB13948; 
+                     MPB13966"
+                     /note="/X-Transferred_Similarity=100.00%"
+                     /note="/X-Transferred_Translation=MIMGIHKGEELFTGVVPILVELDGD
+                     VNGHK 
+                     FSVRGEGEGDATNGKLTLKFICTTGKLPVPWPTLVTTLTYGVQCFSRYPDHMKQHDFF 
+                     KSAMPEGYVQERTISFKDDGTYKTRAEVKFEGDTLVNRIELKGIDFKEDGNILGHKLE 
+                     YNFNSHNVYITADKQKNGIKANFKIRHNVEDGSVQLADHYQQNTPIGDGPVLLPDNHY 
+                     LSTQSKLSKDPNEKRDHMVLLEFVTAAGITHGMDELYK"
+                     /note="/modified_by=rogers"
+                     /db_xref="GI:891171199; GI:891171219"
+                     /protein_id="AKQ70993.1; AKQ71008.1"
+                     /translation="MIMGIHKGEELFTGVVPILVELDGDVNGHKFSVRGEGEGDATNGK
+                     LTLKFICTTGKLPVPWPTLVTTLTYGVQCFSRYPDHMKQHDFFKSAMPEGYVQERTISF
+                     KDDGTYKTRAEVKFEGDTLVNRIELKGIDFKEDGNILGHKLEYNFNSHNVYITADKQKN
+                     GIKANFKIRHNVEDGSVQLADHYQQNTPIGDGPVLLPDNHYLSTQSKLSKDPNEKRDHM
+                     VLLEFVTAAGITHGMDELYK"
+ORIGIN
+        1 gcacctacaa aacccgtgca gaggttaaat ttgaaggtga tactctggtg aaccgtattg
+       61 aactgaaagg cattgatttc aaagaggacg gcaacatcct gggccacaaa ctggaatata
+      121 acttcaactc ccataacgtt tacatcaccg cagacaaaca gaagaacggt atcaaagcta
+      181 acttcaaaat tcgccataac gttgaagacg gtagcgtaca gctggcggac cactaccagc
+      241 agaacactcc gatcggtgat ggtccggttc tgctgccgga taaccactac ctgtccaccc
+      301 agtctaaact gtccaaagac ccgaacgaaa agcgcgacca catggtgctg ctggagttcg
+      361 ttactgcagc aggtatcacg cacggcatgg atgaactcta caaataacca attattgaag
+      421 gccgctaacg cggccttttt ttgtttctgg tctccccgat aaactgtaat gcggtagttt
+      481 atcacagtta aattgctaac gcagtcaggc accgtgtatg aaatctaaca atgcgctcat
+      541 cgtcatcctc ggcaccgtca ccctggatgc tgtaggcata ggcttggtta tgccggtact
+      601 gccgggcctc ttgcgggata tcgtccattc cgacagcatc gccagtcact atggcgtgct
+      661 gctagcgcta tatgcgttga tgcaatttct atgcgcaccc gttctcggag cactgtccga
+      721 ccgctttggc cgccgcccag tcctgctcgc ttcgctactt ggagccacta tcgactacgc
+      781 gatcatggcg accacacccg tcctgtggat tctctacgcc ggacgcatcg tggccggcat
+      841 caccggcgcc acaggtgcgg ttgctggcgc ctatatcgcc gacatcaccg atggggaaga
+      901 tcgggctcgc cacttcgggc tcatgagcgc ttgtttcggc gtgggtatgg tggcaggccc
+      961 cgtggccggg ggactgttgg gcgccatctc cctgcacgca ccattccttg cggcggcggt
+     1021 gctcaacggc ctcaacctac tactgggctg cttcctaatg caggagtcgc ataagggaga
+     1081 gcgccgtccg atgcccttga gagccttcaa cccagtcagc tccttccggt gggcgcgggg
+     1141 catgaccatt gtggccgcac ttatgactgt cttctttatc atgcaactcg taggacaggt
+     1201 gccggcagcg ctctgggtca ttttcggcga ggaccgcttt cgctggagcg cgacgatgag
+     1261 cggcctgtcg cttgcggtat tcggaatctt gcacgccctc gctcaagcct tcgtcactgg
+     1321 tcccgccacc aaacgtttcg gcgagaagca ggccattatc gccggcatgg cggccgacgc
+     1381 gctgggctac gtcttgctgg cgttcgcgac gcgaggctgg atggccttcc ccattatgat
+     1441 tcttctcgct tccggcggca tcgggatgcc cgcgttgcag gccatgctgt ccaggcaggt
+     1501 agatgacgac catcagggac agcttcaagg atcgctcgcg gctcttacca gcctaacttc
+     1561 gatcactgga ccgctgatcg tcacggcgat ttatgccgcc tcggcgagca catggaacgg
+     1621 gttggcatgg attgtaggcg ccgccctata ccttgtctgc ctccccgcgt tgcgtcgcgg
+     1681 tgcatggagc cgggccacct cgacctgaga caatacccat cacatatacc tgccgttcac
+     1741 tattatttag tgaaatgaga tattatgata ttttctgaat tgtgattaaa aaggcaactt
+     1801 tatgcccatg caacagaaac tataaaaaat acagagaatg aaaagaaaca gatagatttt
+     1861 ttagttcttt aggcccgtag tctgcaaatc cttttatgat tttctatcaa acaaaagagg
+     1921 aaaatagacc agttgcaatc caaacgagag tctaatagaa tgaggtcgaa aagtaaatcg
+     1981 cgcgggtttg ttactgataa agcaggcaag acctaaaatg tgtaaagggc aaagtgtata
+     2041 ctttggcgtc accccttaca tattttaggt ctttttttat tgtgcgtaac taacttgcca
+     2101 tcttcaaaca ggagggctgg aagaagcaga ccgctaacac agtacataaa aaaggagaca
+     2161 tgaacgatga acatcaaaaa gtttgcaaaa caagcaacag tattaacctt tactaccgca
+     2221 ctgctggcag gaggcgcaac tcaagcgttt gcgaaagaaa cgaaccaaaa gccatataag
+     2281 gaaacatacg gcatttccca tattacacgc catgatatgc tgcaaatccc tgaacagcaa
+     2341 aaaaatgaaa aatatcaagt ttctgaattt gattcgtcca caattaaaaa tatctcttct
+     2401 gcaaaaggcc tggacgtttg ggacagctgg ccattacaaa acgctgacgg cactgtcgca
+     2461 aactatcacg gctaccacat cgtctttgca ttagccggag atcctaaaaa tgcggatgac
+     2521 acatcgattt acatgttcta tcaaaaagtc ggcgaaactt ctattgacag ctggaaaaac
+     2581 gctggccgcg tctttaaaga cagcgacaaa ttcgatgcaa atgattctat cctaaaagac
+     2641 caaacacaag aatggtcagg ttcagccaca tttacatctg acggaaaaat ccgtttattc
+     2701 tacactgatt tctccggtaa acattacggc aaacaaacac tgacaactgc acaagttaac
+     2761 gtatcagcat cagacagctc tttgaacatc aacggtgtag aggattataa atcaatcttt
+     2821 gacggtgacg gaaaaacgta tcaaaatgta cagcagttca tcgatgaagg caactacagc
+     2881 tcaggcgaca accatacgct gagagatcct cactacgtag aagataaagg ccacaaatac
+     2941 ttagtatttg aagcaaacac tggaactgaa gatggctacc aaggcgaaga atctttattt
+     3001 aacaaagcat actatggcaa aagcacatca ttcttccgtc aagaaagtca aaaacttctg
+     3061 caaagcgata aaaaacgcac ggctgagtta gcaaacggcg ctctcggtat gattgagcta
+     3121 aacgatgatt acacactgaa aaaagtgatg aaaccgctga ttgcatctaa cacagtaaca
+     3181 gatgaaattg aacgcgcgaa cgtctttaaa atgaacggca aatggtacct gttcactgac
+     3241 tcccgcggat caaaaatgac gattgacggc attacgtcta acgatattta catgcttggt
+     3301 tatgtttcta attctttaac tggcccatac aagccgctga acaaaactgg ccttgtgtta
+     3361 aaaatggatc ttgatcctaa cgatgtaacc tttacttact cacacttcgc tgtacctcaa
+     3421 gcgaaaggaa acaatgtcgt gattacaagc tatatgacaa acagaggatt ctacgcagac
+     3481 aaacaatcaa cgtttgcgcc gagcttcctg ctgaacatca aaggcaagaa aacatctgtt
+     3541 gtcaaagaca gcatccttga acaaggacaa ttaacagtta acaaataaaa acgcaaaaga
+     3601 aaatgccgat gggtaccgag cgaaatgtcc ttttccgctg cataaccctg cttcggggtc
+     3661 attatagcga ttttttcggt atatccatcc tttttcgcac gatatacagg attttgccaa
+     3721 agggttcgtg tagactttcc ttggtgtatc caacggcgtc agccgggcag gataggtgaa
+     3781 gtaggcccac ccgcgagcgg gtgttccttc ttcactgtcc cttattcgca cctggcggtg
+     3841 ctcaacggga atcctgctct gcgaggctgg ccgtaggccg gccatgtgag caaaaggcca
+     3901 gcaaaaggcc aggaaccgta aaaaggccgc gttgctggcg tttttccata ggctccgccc
+     3961 ccctgacgag catcacaaaa atcgacgctc aagtcagagg tggcgaaacc cgacaggact
+     4021 ataaagatac caggcgtttc cccctggaag ctccctcgtg cgctctcctg ttccgaccct
+     4081 gccgcttacc ggatacctgt ccgcctttct cccttcggga agcgtggcgc tttctcatag
+     4141 ctcacgctgt aggtatctca gttcggtgta ggtcgttcgc tccaagctgg gctgtgtgca
+     4201 cgaacccccc gttcagcccg accgctgcgc cttatccggt aactatcgtc ttgagtccaa
+     4261 cccggtaaga cacgacttat cgccactggc agcagccact ggtaacagga ttagcagagc
+     4321 gaggtatgta ggcggtgcta cagagttctt gaagtggtgg cctaactacg gctacactag
+     4381 aagaacagta tttggtatct gcgctctgct gaagccagtt accttcggaa aaagagttgg
+     4441 tagctcttga tccggcaaac aaaccaccgc tggtagcggt ggtttttttg tttgcaagca
+     4501 gcagattacg cgcagaaaaa aaggatctca agaagatcct ttgatctttt ctacgggggc
+     4561 gcgcccagct gtctagggcg gcggatttgt cctactcagg agagcgttca ccgacaaaca
+     4621 acagataaaa cgaaaggccc agtctttcga ctgagccttt cgttttattt gatgccgtac
+     4681 agctatcttg gttcagacgt gagaagtgat gcacagacta gtcagcacta catcaactga
+     4741 ctactgacta ctgactgcca cccttggact cctgttgata gatccagtaa tgacctcaga
+     4801 actccatctg gatttgttca gaacgctcgg ttgccgccgg gcgtttttta ttggtgagaa
+     4861 tccaggggtc cccaataatt acgatttacg tatttaaatt tgacagctta tcatgcccat
+     4921 tgacaaggct ctcgcggcca ggtataattg cacgacctag ggcccaagtt cacttaaaaa
+     4981 ggagatcaac aatgatcatg ggaattcata aaggtgaaga actgttcacc ggtgttgttc
+     5041 cgatcctggt tgaactggat ggtgatgtta acggccacaa attctctgtt cgtggtgaag
+     5101 gtgaaggtga tgcaaccaac ggtaaactga ccctgaaatt catctgcact accggtaaac
+     5161 tgccggttcc atggccgact ctggtgacta ccctgaccta tggtgttcag tgtttttctc
+     5221 gttacccgga tcacatgaag cagcatgatt tcttcaaatc tgcaatgccg gaaggttatg
+     5281 tacaggagcg caccatttct ttcaaagacg atg
+//
