@@ -1,0 +1,63 @@
+                  Estimate Std. Error       t value
+(Intercept)  -4.922173e-16  0.2649005 -1.858121e-15
+SetMT12+MTdT  1.106685e+00  0.3701157  2.990105e+00
+SetMT14+MTdT  1.307945e+00  0.3701157  3.533881e+00
+SetMT48+MTdT  1.756228e-01  0.3470214  5.060864e-01
+SetMT22+MTdT  9.643439e-01  0.3470214  2.778918e+00
+[1] ""
+
+	 Simultaneous Tests for General Linear Hypotheses
+
+Multiple Comparisons of Means: Tukey Contrasts
+
+
+Fit: lmer(formula = LOG_Rel ~ Set + (1 | Replicate), data = d)
+
+Linear Hypotheses:
+                           Estimate Std. Error z value Pr(>|z|)   
+MT12+MTdT - MTdT == 0        1.1067     0.3701   2.990   0.0233 * 
+MT14+MTdT - MTdT == 0        1.3079     0.3701   3.534   0.0037 **
+MT48+MTdT - MTdT == 0        0.1756     0.3470   0.506   0.9868   
+MT22+MTdT - MTdT == 0        0.9643     0.3470   2.779   0.0432 * 
+MT14+MTdT - MT12+MTdT == 0   0.2013     0.3929   0.512   0.9861   
+MT48+MTdT - MT12+MTdT == 0  -0.9311     0.3701  -2.516   0.0870 . 
+MT22+MTdT - MT12+MTdT == 0  -0.1423     0.3701  -0.385   0.9954   
+MT48+MTdT - MT14+MTdT == 0  -1.1323     0.3701  -3.059   0.0188 * 
+MT22+MTdT - MT14+MTdT == 0  -0.3436     0.3701  -0.928   0.8858   
+MT22+MTdT - MT48+MTdT == 0   0.7887     0.3470   2.273   0.1533   
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+(Adjusted p values reported -- single-step method)
+
+[1] ""
+
+	 General Linear Hypotheses
+
+Multiple Comparisons of Means: Dunnett Contrasts
+
+
+Linear Hypotheses:
+                      Estimate
+MT12+MTdT - MTdT == 0   1.1067
+MT14+MTdT - MTdT == 0   1.3079
+MT48+MTdT - MTdT == 0   0.1756
+MT22+MTdT - MTdT == 0   0.9643
+
+
+	 Simultaneous Tests for General Linear Hypotheses
+
+Multiple Comparisons of Means: Dunnett Contrasts
+
+
+Fit: lmer(formula = LOG_Rel ~ Set + (1 | Replicate), data = d)
+
+Linear Hypotheses:
+                      Estimate Std. Error z value Pr(>|z|)   
+MT12+MTdT - MTdT == 0   1.1067     0.3701   2.990  0.00558 **
+MT14+MTdT - MTdT == 0   1.3079     0.3701   3.534  0.00164 **
+MT48+MTdT - MTdT == 0   0.1756     0.3470   0.506  0.61280   
+MT22+MTdT - MTdT == 0   0.9643     0.3470   2.779  0.00727 **
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+(Adjusted p values reported -- fdr method)
+

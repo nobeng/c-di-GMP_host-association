@@ -1,0 +1,45 @@
+                     Estimate Std. Error      t value
+(Intercept)      7.402349e-17 0.04053714 1.826066e-15
+SetSBW25+SBW25F* 6.006408e-01 0.06080238 9.878575e+00
+[1] ""
+
+	 Simultaneous Tests for General Linear Hypotheses
+
+Multiple Comparisons of Means: Tukey Contrasts
+
+
+Fit: lmer(formula = LOG_Rel ~ Set + (1 | Replicate), data = d)
+
+Linear Hypotheses:
+                          Estimate Std. Error z value Pr(>|z|)    
+SBW25+SBW25F* - MTdT == 0   0.6006     0.0608   9.879   <2e-16 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+(Adjusted p values reported -- single-step method)
+
+[1] ""
+
+	 General Linear Hypotheses
+
+Multiple Comparisons of Means: Dunnett Contrasts
+
+
+Linear Hypotheses:
+                          Estimate
+SBW25+SBW25F* - MTdT == 0   0.6006
+
+
+	 Simultaneous Tests for General Linear Hypotheses
+
+Multiple Comparisons of Means: Dunnett Contrasts
+
+
+Fit: lmer(formula = LOG_Rel ~ Set + (1 | Replicate), data = d)
+
+Linear Hypotheses:
+                          Estimate Std. Error z value Pr(>|z|)    
+SBW25+SBW25F* - MTdT == 0   0.6006     0.0608   9.879   <2e-16 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+(Adjusted p values reported -- fdr method)
+

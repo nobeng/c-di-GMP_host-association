@@ -1,0 +1,43 @@
+            Df Sum Sq Mean Sq F value   Pr(>F)    
+strain       7  6.115  0.8736   11.92 2.29e-07 ***
+Residuals   32  2.346  0.0733                     
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+[1] ""
+
+	 General Linear Hypotheses
+
+Multiple Comparisons of Means: Dunnett Contrasts
+
+
+Linear Hypotheses:
+               Estimate
+MT11 - WT == 0  0.03880
+MT12 - WT == 0  0.85375
+MT13 - WT == 0 -0.04641
+MT21 - WT == 0  0.75109
+MT25 - WT == 0  0.87148
+MT26 - WT == 0  0.52545
+MT33 - WT == 0 -0.01503
+
+
+	 Simultaneous Tests for General Linear Hypotheses
+
+Multiple Comparisons of Means: Dunnett Contrasts
+
+
+Fit: aov(formula = Rel ~ strain, data = data)
+
+Linear Hypotheses:
+               Estimate Std. Error t value Pr(>|t|)    
+MT11 - WT == 0  0.03880    0.17125   0.227 0.930621    
+MT12 - WT == 0  0.85375    0.17125   4.985 7.26e-05 ***
+MT13 - WT == 0 -0.04641    0.17125  -0.271 0.930621    
+MT21 - WT == 0  0.75109    0.17125   4.386 0.000273 ***
+MT25 - WT == 0  0.87148    0.17125   5.089 7.26e-05 ***
+MT26 - WT == 0  0.52545    0.17125   3.068 0.007629 ** 
+MT33 - WT == 0 -0.01503    0.17125  -0.088 0.930621    
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+(Adjusted p values reported -- fdr method)
+

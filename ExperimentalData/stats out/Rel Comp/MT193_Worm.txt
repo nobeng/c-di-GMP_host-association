@@ -1,0 +1,45 @@
+            Estimate Std. Error  t value
+(Intercept)  0.00000 0.04873355  0.00000
+Set193*+193  1.13832 0.06891778 16.51708
+[1] ""
+
+	 Simultaneous Tests for General Linear Hypotheses
+
+Multiple Comparisons of Means: Tukey Contrasts
+
+
+Fit: lmer(formula = LOG_Rel ~ Set + (1 | Replicate), data = d)
+
+Linear Hypotheses:
+                     Estimate Std. Error z value Pr(>|z|)    
+193*+193 - MTdT == 0  1.13832    0.06892   16.52   <2e-16 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+(Adjusted p values reported -- single-step method)
+
+[1] ""
+
+	 General Linear Hypotheses
+
+Multiple Comparisons of Means: Dunnett Contrasts
+
+
+Linear Hypotheses:
+                     Estimate
+193*+193 - MTdT == 0    1.138
+
+
+	 Simultaneous Tests for General Linear Hypotheses
+
+Multiple Comparisons of Means: Dunnett Contrasts
+
+
+Fit: lmer(formula = LOG_Rel ~ Set + (1 | Replicate), data = d)
+
+Linear Hypotheses:
+                     Estimate Std. Error z value Pr(>|z|)    
+193*+193 - MTdT == 0  1.13832    0.06892   16.52   <2e-16 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+(Adjusted p values reported -- fdr method)
+
