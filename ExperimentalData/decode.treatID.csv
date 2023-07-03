@@ -1,0 +1,77 @@
+sample	morphotype	pop	treatE	morphology.long	morphology	morph.simple	X	sample.growthAgar
+F	MT48	1	ancestral	ancestral	anc	anc		10
+A	MT48	2	ancestral	ancestral	anc	anc		3
+J	MT48	3	ancestral	ancestral	anc	anc		6
+C	MT48	4	ancestral	ancestral	anc	anc		6
+A	MT48	5	ancestral	ancestral	anc	anc		7
+P	MT48	6	ancestral	ancestral	anc	anc		3
+B	MT1	1	biphasic	ancestral-like	anc.like	smooth		3
+A	MT2	1	biphasic	fuzzy	fuzzy	fuzzy		1
+E	MT3	1	biphasic	"ancestral-like, more wet colony"	anc.wet	smooth		5
+J	MT4	1	biphasic	crumbly	wrinkly	wrinkly		8
+C	MT5	1	biphasic	crumbly	wrinkly	wrinkly		9
+G	MT6	1	biphasic	"ancestral-like, colony size variation"	anc.var	smooth		2
+H	MT7	1	biphasic	ancestral-like	anc.like	smooth		7
+D	MT28	1	monophasic	very wet and flat colony	wet+flat	smooth		4
+I	MT29	1	monophasic	"ancestral-like, more wet colony"	anc.wet	smooth		6
+C	MT8	2	biphasic	crumbly	wrinkly	wrinkly		7
+F	MT9	2	biphasic	crumbly	wrinkly	wrinkly		13
+E	MT30	2	monophasic	"ancestral-like, colony size variation"	anc.var	smooth		4
+B	MT31	2	monophasic	very wet and flat colony	wet+flat	smooth		9
+D	MT32	2	monophasic	fuzzy	fuzzy	fuzzy		12
+C	MT10	3	biphasic	"ancestral-like, colony size variation"	anc.var	smooth		8
+I	MT11	3	biphasic	"ancestral-like, slightly fuzzy"	fuzzy	fuzzy		3
+K	MT12	3	biphasic	crumbly	wrinkly	wrinkly		12
+E	MT13	3	biphasic	"ancestral-like, colony size variation"	anc.var	smooth		1
+A	MT14	3	biphasic	slightly crumbly	wrinkly	wrinkly		7
+F	MT15	3	biphasic	fuzzy	fuzzy	fuzzy		5
+D	MT16	3	biphasic	"ancestral-like, more wet colony"	anc.wet	smooth		10
+G	MT33	3	monophasic	"ancestral-like, colony size variation"	anc.var	smooth		4
+L	MT34	3	monophasic	"ancestral-like, colony size variation"	anc.var	smooth		2
+B	MT35	3	monophasic	fuzzy	fuzzy	fuzzy		11
+H	MT36	3	monophasic	fuzzy	fuzzy	fuzzy		9
+I	MT17	4	biphasic	crumbly	wrinkly	wrinkly		3
+B	MT18	4	biphasic	resembles E. coli OP50 (fuzzy)	fuz.ecol	fuz.ecol		9
+E	MT19	4	biphasic	"ancestral-like, colony size variation"	anc.var	smooth		1
+G	MT20	4	biphasic	crumbly	wrinkly	wrinkly		5
+D	MT37	4	monophasic	very wet and flat colony	wet+flat	smooth		8
+A	MT38	4	monophasic	fuzzy	fuzzy	fuzzy		7
+F	MT39	4	monophasic	very wet and flat colony	wet+flat	smooth		2
+H	MT40	4	monophasic	"ancestral-like, more wet colony"	anc.wet	smooth		4
+E	MT21	5	biphasic	crumbly	wrinkly	wrinkly		8
+H	MT22	5	biphasic	crumbly	wrinkly	wrinkly		3
+M	MT23	5	biphasic	"ancestral-like, more wet colony"	anc.wet	smooth		5
+O	MT24	5	biphasic	"ancestral-like, more wet colony"	anc.wet	smooth		6
+B	MT41	5	monophasic	"ancestral-like, colony size variation"	anc.var	smooth		2
+N	MT42	5	monophasic	very wet and flat colony	wet+flat	smooth		1
+G	MT43	5	monophasic	fuzzy	fuzzy	fuzzy		4
+C	MT25	6	biphasic	crumbly	wrinkly	wrinkly		1
+I	MT26	6	biphasic	crumbly	wrinkly	wrinkly		2
+J	MT27	6	biphasic	fuzzy	fuzzy	fuzzy		5
+D	MT44	6	monophasic	"ancestral-like, more wet colony"	anc.wet	smooth		11
+K	MT45	6	monophasic	"ancestral-like, more wet colony"	anc.wet	smooth		8
+F	MT46	6	monophasic	fuzzy	fuzzy	fuzzy		10
+L	MT47	6	monophasic	"ancestral-like, more wet colony"	anc.wet	smooth		6
+L	MT48	3	ancestral	ancestral	anc	anc	2. Umlauf	
+G	MT48	4	ancestral	ancestral	anc	anc	2. Umlauf	
+F	MT10	3	biphasic	"ancestral-like, colony size variation"	anc.var	smooth	2. Umlauf	
+I	MT11	3	biphasic	"ancestral-like, slightly fuzzy"	fuzzy	fuzzy	2. Umlauf	
+C	MT12	3	biphasic	crumbly	wrinkly	wrinkly	2. Umlauf	
+K	MT13	3	biphasic	"ancestral-like, colony size variation"	anc.var	smooth	2. Umlauf	
+G	MT14	3	biphasic	slightly crumbly	wrinkly	wrinkly	2. Umlauf	
+D	MT15	3	biphasic	fuzzy	fuzzy	fuzzy	2. Umlauf	
+A	MT16	3	biphasic	"ancestral-like, more wet colony"	anc.wet	smooth	2. Umlauf	
+E	MT33	3	monophasic	"ancestral-like, colony size variation"	anc.var	smooth	2. Umlauf	
+H	MT34	3	monophasic	"ancestral-like, colony size variation"	anc.var	smooth	2. Umlauf	
+J	MT35	3	monophasic	fuzzy	fuzzy	fuzzy	2. Umlauf	
+B	MT36	3	monophasic	fuzzy	fuzzy	fuzzy	2. Umlauf	
+B	MT17	4	biphasic	crumbly	wrinkly	wrinkly	2. Umlauf	
+A	MT18	4	biphasic	resembles E. coli OP50 (fuzzy)	fuz.ecol	fuz.ecol	2. Umlauf	
+H	MT19	4	biphasic	"ancestral-like, colony size variation"	anc.var	smooth	2. Umlauf	
+C	MT20	4	biphasic	crumbly	wrinkly	wrinkly	2. Umlauf	
+F	MT37	4	monophasic	very wet and flat colony	wet+flat	smooth	2. Umlauf	
+E	MT38	4	monophasic	fuzzy	fuzzy	fuzzy	2. Umlauf	
+D	MT39	4	monophasic	very wet and flat colony	wet+flat	smooth	2. Umlauf	
+I	MT40	4	monophasic	"ancestral-like, more wet colony"	anc.wet	smooth	2. Umlauf	
+X	OP50	1	ancestral	OP50	OP50	OP50		
+X	MYb11-dTomato	1	ancestral	ancestral-dTomato	ancestral-dTomato	ancestral-dTomato		
